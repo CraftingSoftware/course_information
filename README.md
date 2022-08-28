@@ -2,8 +2,9 @@
 
 This repository contains information about the Software Engineering course, including the course objectives, policies and the schedule. Please check this repository regularly for updates to the policies and the schedule.
 
-# Contents
+# Content
 
+- [SCHEDULE](#Schedule)
 - [Instructor](#Instructor)
 - [Meeting Times](#Meetings)
 - [Discord](#Discord)
@@ -11,7 +12,6 @@ This repository contains information about the Software Engineering course, incl
 - [Course Description](#Description)
 - [Course Objectives](#Objectives)
 - [Learning Outcomes](#Outcomes)
-- [Course Schedule](#Schedule)
 - [Course Policies](#Policies)
 - [Assistance](#Assistance)
 
