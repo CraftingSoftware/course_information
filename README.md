@@ -97,21 +97,21 @@ Week # | Dates            | Topic                                               
 ------ | ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------
 1      | Aug. 29-Sep.2       | Introduction to Software Engineering.  | Community Guidelines. [Activity 1](). | Read the syllabus.
 2      | Sep. 5 - Sep. 9     |                                        |                                       | 
-2      | Sep. 12 - Sep. 16     |                                        |                                       | 
-2      | Sep. 19 - Sep. 23     |                                        |                                       | 
-2      | Sep. 26 - Sep. 30     |                                        |                                       | 
-2      | Oct. 3 - Sep. 7     |                                        |                                       | 
-2      | Oct. 10 - Oct. 14     |  Fall break Oct. 10-11                                      |                                       | 
-2      | Oct. 17 - Oct. 21     |                                        |                                       | 
-2      | Oct. 24 - Oct. 28     |  No class on Oct. 25                                      |                                       | 
-2      | Oct. 31 - Nov. 4     |                                        |                                       | 
-2      | Nov. 7 - Nov. 11     |                                        |                                       | 
-2      | Nov. 14 - Nov. 18     |                                        |                                       | 
-2      | Nov. 21 - Nov. 25     |  Thanksgiving break Nov. 23-25                                      |                                       | 
-2      | Nov. 28 - Dec. 2     |                                        |                                       | 
-2      | Dec. 5 - Dec. 9     |                                        |                                       | 
-2      | Dec. 12 - Dec. 16     |                                        |                                       | 
-2      | Sep. 19 - Dec. 23     |   Finals                                     |                                       | 
+3      | Sep. 12 - Sep. 16     |                                        |                                       | 
+4      | Sep. 19 - Sep. 23     |                                        |                                       | 
+5      | Sep. 26 - Sep. 30     |                                        |                                       | 
+6      | Oct. 3 - Sep. 7     |                                        |                                       | 
+7      | Oct. 10 - Oct. 14     |  Fall break Oct. 10-11                                      |                                       | 
+8      | Oct. 17 - Oct. 21     |                                        |                                       | 
+9      | Oct. 24 - Oct. 28     |  No class on Oct. 25                                      |                                       | 
+10      | Oct. 31 - Nov. 4     |                                        |                                       | 
+11      | Nov. 7 - Nov. 11     |                                        |                                       | 
+12      | Nov. 14 - Nov. 18     |                                        |                                       | 
+13      | Nov. 21 - Nov. 25     |  Thanksgiving break Nov. 23-25                                      |                                       | 
+14      | Nov. 28 - Dec. 2     |                                        |                                       | 
+15      | Dec. 5 - Dec. 9     |                                        |                                       | 
+16      | Dec. 12 - Dec. 16     |                                        |                                       | 
+17      | Dec. 19 - Dec. 23     |   Finals                                     |                                       | 
 
 ### Policies
 
@@ -181,9 +181,11 @@ As the nature of "plagiarism" and constituents of "fair use" change often, the d
 
 The above statement, of course, also applies to online forums such as Stack Overflow, et al.
 
-#### Classroom ethics
+#### Classroom Ethics
 
-The discipline of computer science, like many others, encourages its members to act according to discipline-specific ethics. I encourage you to take time to review the Association for Computing Machinery (ACM) [Code of Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf). In addition, students in this class are required to act within the bounds established by the [Course Community Guidelines](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/community_guidelines). Each violation to the course guidelines will result in a warning from the instructor; after two such warnings, the grade of the assignment during which a violation was detected will be reduced.
+The discipline of computer science, like many others, encourages its members to act according to discipline-specific ethics. I encourage you to take time to review the Association for Computing Machinery (ACM) [Code of Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf).
+
+In addition, students in this class are required to act within the bounds established by the [Course Code of Conduct](https://github.com/CMPSC-203-Allegheny-College-Fall-2022/code_of_conduct.md). 
 
 ### Assistance
 
@@ -191,17 +193,31 @@ The discipline of computer science, like many others, encourages its members to 
 
 Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from the course instructor. Students who need the course instructor's assistance should schedule an appointment through her [Office Hour Calendar](https://janyljumadinova.com/schedule).
 
-#### Assistance outside of the course
+#### Academic Alerts
 
-If you find yourself in difficult circumstances which interfere with your ability to participate in or complete course assignments, let me know immediately. Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus.
+Allegheny College uses an Academic Alert system to send progress notices to the class deans in the Maytum Center for Student Success (MCSS). The progress notices are not punitive. They are an opportunity to connect you with your class dean who can offer additional support and suggest resources if you need assistance. These notices may encourage faculty advisors, coaches (for student-athletes), or other support staff to provide outreach to you as well.
 
-In many situations, the following list of resources may help:
+#### Class Deans
 
-- [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
-- [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
-- [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
-- [Student Life](https://sites.allegheny.edu/studentlife/)
+The Office of Class Deans in Pelletier Library serves as a place for students to begin seeking assistance and answers to their questions related to college life. If you have a question and don’t know who to ask – ask a class dean. If you want advice – talk to a class dean. Niki Fjeldal is the First Year Class Dean, Amy Stearns is the Second Year Class Dean / Director of Transfer Advising, and Jonathon May is the Third/Fourth Year Class Dean. Please contact them individually or through studentsuccess@allegheny.edu.
 
-#### Special needs and disability
+#### Mental Health and Wellness
 
-Students with disabilities who believe they need accommodations in this course are encouraged to contact Disability Services at `+1 814-332-2898` or `disabilityservices@allegheny.edu`. Disability Services is located in Pelletier Library. Should you need accommodations, contact this office as soon as possible to ensure that approved accommodations are communicated and implemented in a timely fashion.
+As a college student, there may be times when personal stressors, struggles, and/or traumas interfere with your academic performance and/or negatively impact your daily life. Allegheny College recognizes that mental health is an important piece of the holistic human experience, and that this experience influences your academic success. We encourage students to prioritize their mental well-being by seeking services and support as needed.
+
+Keep in mind, course deadlines, absences, and accommodations for mental health are subject to the course policies and expectations that are set within this syllabus. Students are encouraged to communicate with their professors as soon as possible regarding their needs and seek support if their mental health impacts their academic performance or daily life. When you find yourself struggling emotionally, remember that there are supports available, and you are not alone.
+
+Students who are in need of mental health support can access free, confidential services and resources in the Counseling and Personal Development Center (CPDC). CPDC delivers holistic mental health services to the Allegheny College student campus community through brief individual and group counseling, crisis support, outreach programming, consultation, and coordination of care. Students may request services by submitting a form on CPDC’s website (`sites.allegheny.edu/counseling`). Students may also connect with a mental health clinician at any time by calling Allegheny’s 24/7 line: 814-332-2105. 
+If you or someone you know is experiencing a mental health emergency, please call the 24/7 line, Public Safety (814-332-3357), or 911. When in doubt, reach out.
+
+#### Gator Success Grants
+
+The Gator Success Grant program is designed to provide students with additional financial assistance to offset the total cost of college attendance and to encourage successful on-time degree completion. Currently enrolled students who have an unanticipated need are invited to apply. Grants are usually from a few hundred to a few thousand dollars, depending on the request and the student’s need. Please direct questions to `studentsuccess@allegheny.edu`.
+
+#### Religious Observance 
+
+If you need to miss class or reschedule a final examination due to a religious observance, please speak to the professor well in advance to make arrangements. Please see `https://sites.allegheny.edu/religiouslife/religious-holy-days/` for more details.
+
+#### Educational Accommodations
+
+Students with disabilities who believe they may need accommodations in this class are encouraged to contact Student Accessibility and Support Services (SASS) at (814) 332-2898.  Student Accessibility and Support Services is located in Pelletier Library.  Please do this as soon as possible to ensure that such accommodations are implemented in a timely fashion. Please see `https://sites.allegheny.edu/studentaccessibility/` for more details.
