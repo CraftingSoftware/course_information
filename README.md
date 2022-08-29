@@ -12,6 +12,7 @@ This repository contains information about the Software Engineering course, incl
 - [Course Description](#Description)
 - [Course Objectives](#Objectives)
 - [Learning Outcomes](#Outcomes)
+- [Required Materials](#Materials)
 - [Course Policies](#Policies)
 - [Assistance](#Assistance)
 
@@ -96,7 +97,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 Week # | Dates            | Topic                                                 | Activities/Assignments                                                                                                                                                                                                                                                                                                               | Reading
 ------ | ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------
 1      | Aug. 29-Sep.2       | Introduction to Software Engineering.  | Community Guidelines. | Read the syllabus.
-2      | Sep. 5 - Sep. 9     |  Requirements Engineering.                                      |                                       | 
+2      | Sep. 5 - Sep. 9     |                                       |                                       | 
 3      | Sep. 12 - Sep. 16     |                                        |                                       | 
 4      | Sep. 19 - Sep. 23     |                                        |                                       | 
 5      | Sep. 26 - Sep. 30     |                                        |                                       | 
@@ -112,6 +113,20 @@ Week # | Dates            | Topic                                               
 15      | Dec. 5 - Dec. 9     |                                        |                                       | 
 16      | Dec. 12 - Dec. 16     |                                        |                                       | 
 17      | Dec. 19 - Dec. 23     |   Finals                                     |                                       | 
+
+### Materials
+
+The following textbooks are required for the course, they are all open-source and you do not need to purchase them. All reading material will be assigned weekly by the instructor and linked on the [course schedule](#Schedule). 
+
+- [Software Engineering at Google](https://abseil.io/resources/swe-book) curated by T. Winters, T. Manshreck, H. Wright.
+- [Cooperative Software Design](https://faculty.washington.edu/ajko/books/cooperative-software-development/) by Amy J. Ko.
+- [The Debugging Book: Tools and Techniques for Automated Software Debugging](https://www.debuggingbook.org/)  by Andreas Zeller.
+
+The instructor will also reference and provide resources, when necessary, from these books: 
+- Head First Software Development: A Learner’s Companion to Software Development. Dan Pilone and Russ Miles. 2007.
+- Python Testing with Pytest. Brian Okken. First Edition, 2017.
+
+You are required to bring a laptop to every class. Additionally, you will be required to install software on your laptop and if your laptop is not capable of working with specific software then a departmental laptop will be provided to you.
 
 ### Policies
 
