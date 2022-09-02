@@ -16,6 +16,32 @@ This repository contains information about the Software Engineering course, incl
 - [Course Policies](#Policies)
 - [Assistance](#Assistance)
 
+
+### Schedule
+
+Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
+
+Week # | Dates            | Topic                                                 | Activities/Assignments   | Reading
+------ | ---------------- | ----------------------------------------------------- | ------------------------ | -----------------------------
+1      | Aug. 29 - Sep. 2  | Introduction to Class. [GitHub Flow Slides.](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000) | [Code of Conduct assignment.](https://github.com/CMPSC-203-Allegheny-College-Fall-2022/code-of-conduct) | Read the syllabus. Review links given in the [slides](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000) and the [assignment.](https://github.com/CMPSC-203-Allegheny-College-Fall-2022/code-of-conduct)
+2      | Sep. 5 - Sep. 9     | Introduction to Software Engineering. | Finish [Code of Conduct](https://github.com/CMPSC-203-Allegheny-College-Fall-2022/code-of-conduct) by 11am on Sep. 8. Practical 1.| 
+[GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow). [Software Engineering at Google: What is Software Engineering?](https://abseil.io/resources/swe-book/html/ch01.html). [Cooperative Software Development: Chapter 5 (Quality), ~10 min. read;](https://faculty.washington.edu/ajko/books/cooperative-software-development/quality). [Chapter 2 (Organizations) ~10 min. read](https://faculty.washington.edu/ajko/books/cooperative-software-development/organizations). 
+3      | Sep. 12 - Sep. 16     | Gathering Good Requirements. |                                       | 
+4      | Sep. 19 - Sep. 23     | Software Design. Software Complexity.  |                                       | 
+5      | Sep. 26 - Sep. 30     | Software Testing.   |                                       | 
+6      | Oct. 3 - Oct. 7     | Continuous Integration.   |                                       | 
+7      | Oct. 10 - Oct. 14     | Continuous Integration. Fall break Oct. 10-11   |                                       | 
+8      | Oct. 17 - Oct. 21     |  Stand-Ups. Sprints.   | 
+9      | Oct. 24 - Oct. 28     | Software Engineering Organizations. No class on Oct. 25 |                                       | 
+10      | Oct. 31 - Nov. 4     | Software Engineering Organizations. |                                       | 
+11      | Nov. 7 - Nov. 11     |  Programming Styles.  |                                       | 
+12      | Nov. 14 - Nov. 18     |  Programming Styles.  |                                       | 
+13      | Nov. 21 - Nov. 25     |  Thanksgiving break Nov. 23-25                                      |                                       | 
+14      | Nov. 28 - Dec. 2     | Project Work.  |                                       | 
+15      | Dec. 5 - Dec. 9     | Project Work.   |                                       | 
+16      | Dec. 12 - Dec. 16     |   Project Presentations.    |                                       | 
+17      | Dec. 19 - Dec. 23     |   Project Final Deadline.    |                                       | 
+
 ## Instructor
 
 Dr. Janyl Jumadinova
@@ -89,31 +115,6 @@ study in the fields of computer science and software engineering. The student
 should also be able to participate in real-world software development projects
 by adeptly using cutting-edge software tools and working with a team of diverse
 developers.
-
-### Schedule
-
-Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
-
-Week # | Dates            | Topic                                                 | Activities/Assignments                                                                                                                                                                                                                                                                                                               | Reading
------- | ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------
-1      | Aug. 29 - Sep. 2       | Introduction to Class. [GitHub Flow Slides.](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000) | [Code of Conduct assignment.](https://github.com/CMPSC-203-Allegheny-College-Fall-2022/code-of-conduct) | Read the syllabus. Review links given in the [slides](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000) and the [assignment.](https://github.com/CMPSC-203-Allegheny-College-Fall-2022/code-of-conduct)
-2      | Sep. 5 - Sep. 9     | Introduction to Software Engineering. Communication. | Finish [Code of Conduct]((https://github.com/CMPSC-203-Allegheny-College-Fall-2022/code-of-conduct)) by 11am on Sep. 8. Practical 1.| 
-[GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow). [Software Engineering at Google: What is Software Engineering?](https://abseil.io/resources/swe-book/html/ch01.html). [Cooperative Software Development: Chapter 5 (Quality), ~10 min. read;](https://faculty.washington.edu/ajko/books/cooperative-software-development/quality). [Chapter 2 (Organizations) ~10 min. read](https://faculty.washington.edu/ajko/books/cooperative-software-development/organizations). |
-3      | Sep. 12 - Sep. 16     | Gathering Good Requirements. |                                       | 
-4      | Sep. 19 - Sep. 23     | Software Design. Software Complexity.  |                                       | 
-5      | Sep. 26 - Sep. 30     | Software Testing.   |                                       | 
-6      | Oct. 3 - Oct. 7     | Continuous Integration.   |                                       | 
-7      | Oct. 10 - Oct. 14     | Continuous Integration. Fall break Oct. 10-11   |                                       | 
-8      | Oct. 17 - Oct. 21     |  Stand-Ups. Sprints.   | 
-9      | Oct. 24 - Oct. 28     | Software Engineering Organizations. No class on Oct. 25 |                                       | 
-10      | Oct. 31 - Nov. 4     | Software Engineering Organizations. |                                       | 
-11      | Nov. 7 - Nov. 11     |  Programming Styles.  |                                       | 
-12      | Nov. 14 - Nov. 18     |  Programming Styles.  |                                       | 
-13      | Nov. 21 - Nov. 25     |  Thanksgiving break Nov. 23-25                                      |                                       | 
-14      | Nov. 28 - Dec. 2     | Project Work.  |                                       | 
-15      | Dec. 5 - Dec. 9     | Project Work.   |                                       | 
-16      | Dec. 12 - Dec. 16     |   Project Presentations.    |                                       | 
-17      | Dec. 19 - Dec. 23     |   Project Final Deadline.    |                                       | 
 
 ### Materials
 
