@@ -19,7 +19,7 @@ This repository contains information about the Software Engineering course, incl
 
 ### Schedule
 
-Below is a tentative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
+Below is a tentative schedule of covered topics and associated activities. The schedule is subject to change. Credit to Maria Kim for the baseline slides.
 
 Week # | Dates            | Topic                                                 | Activities/Assignments   | Reading
 ------ | ---------------- | ----------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------
