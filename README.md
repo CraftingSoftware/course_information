@@ -25,21 +25,21 @@ Week # | Dates            | Topic                                               
 ------ | ---------------- | ----------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------
 1      | Aug. 29 - Sep. 2  | Introduction to Class. [GitHub Flow Slides.](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000) | [Code of Conduct assignment.](https://github.com/CMPSC-203-Allegheny-College-Fall-2022/code-of-conduct) | Read the syllabus. Review links given in the [slides](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000) and the [assignment](https://github.com/CMPSC-203-Allegheny-College-Fall-2022/code-of-conduct).
 2      | Sep. 5 - Sep. 9     | [Introduction to Software Engineering Slides.](https://docs.google.com/presentation/d/e/2PACX-1vSHQ4Rnsu9rtWSpKilZy2GcFUkDCuHltfzNbi43Tm9wrr9SpaYHRPtHao-n-UfY5g/pub?start=false&loop=false&delayms=3000) | [Activity 1](https://classroom.github.com/a/mK2w_8jM). Finish [Code of Conduct](https://github.com/CMPSC-203-Allegheny-College-Fall-2022/code-of-conduct) by 11am on Sep. 8. Practical 1. | Read [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow). Software Engineering at Google: [What is Software Engineering?](https://abseil.io/resources/swe-book/html/ch01.html).  Cooperative Software Development: [Chapter 2 (Organizations)](https://faculty.washington.edu/ajko/books/cooperative-software-development/organizations), [Chapter 5 (Quality)](https://faculty.washington.edu/ajko/books/cooperative-software-development/quality). 
-3      | Sep. 12 - Sep. 16     | Gathering Good Requirements.                       |           | 
-4      | Sep. 19 - Sep. 23     | Software Design. Software Complexity.              |           | 
-5      | Sep. 26 - Sep. 30     | Software Testing.                                  |           | 
-6      | Oct. 3 - Oct. 7       | Continuous Integration.                            |           | 
-7      | Oct. 10 - Oct. 14     | Continuous Integration. Fall break Oct. 10-11      |           | 
-8      | Oct. 17 - Oct. 21     |  Stand-Ups. Sprints.                               |           |
-9      | Oct. 24 - Oct. 28     | Software Engineering Organizations. No class on Oct. 25 |      | 
-10      | Oct. 31 - Nov. 4     | Processes within Organizations.                    |           | 
-11      | Nov. 7 - Nov. 11     |  Programming Styles.                               |           | 
-12      | Nov. 14 - Nov. 18    |  Programming Styles.                               |           | 
-13      | Nov. 21 - Nov. 25    |  Thanksgiving break Nov. 23-25                     |           | 
-14      | Nov. 28 - Dec. 2     | Project Work.                                      |           | 
-15      | Dec. 5 - Dec. 9      | Project Work.                                      |           |
-16      | Dec. 12 - Dec. 16    |   Project Presentations.                           |           | 
-17      | Dec. 19 - Dec. 23    |   Project Final Deadline.                          |           | 
+3      | Sep. 12 - Sep. 16     | Software Testing.                  |           | 
+4      | Sep. 19 - Sep. 23     | Processes within Software Engineering Organizations. Project 1 Given.             |           | 
+5      | Sep. 26 - Sep. 30     | Continuous Integration and Delivery.                                |           | 
+6      | Oct. 3 - Oct. 7       | Gathering Good Requirements. Project 2 given.                          |           | 
+7      | Oct. 10 - Oct. 14     | Test Coverage and Parametrized Tests. Fall break Oct. 10-11      |           | 
+8      | Oct. 17 - Oct. 21     | Software Complexity.   |           |
+9      | Oct. 24 - Oct. 28     | Software Complexity.  No class on Oct. 25 |      | 
+10      | Oct. 31 - Nov. 4     | Software Engineering Project Work.                   |           | 
+11      | Nov. 7 - Nov. 11     | Programming Styles.                               |           | 
+12      | Nov. 14 - Nov. 18    | Programming Styles.                               |           | 
+13      | Nov. 21 - Nov. 25    | Thanksgiving break Nov. 23-25                     |           | 
+14      | Nov. 28 - Dec. 2     | Software Engineering Project Work.             |           | 
+15      | Dec. 5 - Dec. 9      | Software Engineering Project Work.                                    |           |
+16      | Dec. 12 - Dec. 16    | Project Presentations.                           |           | 
+17      | Dec. 19 - Dec. 23    | Project Final Deadline.                          |           | 
 
 ## Instructor
 
