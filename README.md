@@ -157,7 +157,7 @@ All students are required to actively participate during all of the class sessio
 
 #### Reflection quizzes
 
-At the beginning of nearly each class session (starting on week 2), students will be invited to take a short quiz reflecting on their understanding of the reading material.
+At the beginning of nearly each class session (starting on week 2), students will be invited to take a short quiz reflecting on their understanding of the reading material. Each quiz can be repeated taken until the deadline (typically, end of the class the quiz is given).
 
 #### Practical assignments
 
