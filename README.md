@@ -30,16 +30,16 @@ Week # | Dates            | Topic                                               
 5      | Sep. 26 - Sep. 30     | <ul><li>[Processes within Software Engineering Organizations.](https://docs.google.com/presentation/d/e/2PACX-1vSUzmziYmny9UjuRxGa7d0g81px1E1umu2jG1LhXq9Msxxr6ytY8E2YDvjtg0khjg/pub?start=false&loop=false&delayms=3000)</li> <li>[Communication.](https://docs.google.com/presentation/d/e/2PACX-1vRMQe974hzJEkIRWzujPD6oYKN1GOgNifzaqMh4T3giqINeAYt6FDunHicqNt-95A/pub?start=false&loop=false&delayms=3000)</li></ul> | <ul><li>Quiz 2.</li> <li>[Activity 4 - project board](https://classroom.github.com/a/-pVoPDoZ).</li> <li>[Project 1 - SheetShuttle Contribution](https://classroom.github.com/a/PkGxfwXI) released.</li> | Cooperative Software Development: [Chapter 9 (Process).](https://faculty.washington.edu/ajko/books/cooperative-software-development/process)
   6      | Oct. 3 - Oct. 7       | <ul><li>Digital Ocean Hacktoberfest.</li> <li>[Continuous Integration and Delivery](https://docs.google.com/presentation/d/e/2PACX-1vSyl93NCNB4z9HuW9PCLw4FafyKz7vrXIGQxubnFPhXgxNUiDH0K-9FtW73QMSmOw/pub?start=false&loop=false&delayms=3000).</li></ul> | <ul><li>Project 1 Stand-Ups.</li> <li>[Quiz 3](https://forms.gle/hUZYsi6xCwN9yfce8)</li></ul> | <ul><li>[Pandas Data Frame](https://realpython.com/pandas-dataframe/).</li> <li>Software Engineering at Google: [Continuous Integration](https://abseil.io/resources/swe-book/html/ch23.html).</li></ul>
 7      | Oct. 10 - Oct. 14     | Fall break Oct. 10-11.  | <ul><li>[Quiz 4](https://forms.gle/EDN4Jpb3xPsVUJo56).</li> <li>[Practical 02](https://classroom.github.com/a/6WqkCn64)</li></ul>  | Software Engineering at Google: [Continuous Integration](https://abseil.io/resources/swe-book/html/ch23.html).
-8      | Oct. 17 - Oct. 21     | [Requirements Engineering](https://docs.google.com/presentation/d/e/2PACX-1vSBIBZ1KGkF-qbk0LQGkFomd3yWH5CQl_vc7C1AnsePYr78Zjrj8iqPetWhQKFmkg/pub?start=false&loop=false&delayms=3000). | <ul><li>Project 1 due on October 18th.</li> <li>[Project 2](https://classroom.github.com/a/LeYRs8Sv) released. </li></ul> | <ul><li>Cooperative Software Development: [Chapter 6 (Requirements)](https://faculty.washington.edu/ajko/books/cooperative-software-development/requirements).</li> <li>[Building Software Together](https://buildtogether.tech/).</li></ul>
-9      | Oct. 24 - Oct. 28     | Software Complexity.  No class on Oct. 25 |      | 
-10      | Oct. 31 - Nov. 4     | Software Engineering Project Work.                   |           | 
-11      | Nov. 7 - Nov. 11     | Programming Styles.                               |           | 
-12      | Nov. 14 - Nov. 18    | Programming Styles.                               |           | 
-13      | Nov. 21 - Nov. 25    | Thanksgiving break Nov. 23-25                     |           | 
-14      | Nov. 28 - Dec. 2     | Software Engineering Project Work.             |           | 
-15      | Dec. 5 - Dec. 9      | Software Engineering Project Work.                                    |           |
-16      | Dec. 12 - Dec. 16    | Project Presentations.                           |           | 
-17      | Dec. 19 - Dec. 23    | Project Final Deadline.                          |           | 
+8      | Oct. 17 - Oct. 21     | [Requirements Engineering](https://docs.google.com/presentation/d/e/2PACX-1vSBIBZ1KGkF-qbk0LQGkFomd3yWH5CQl_vc7C1AnsePYr78Zjrj8iqPetWhQKFmkg/pub?start=false&loop=false&delayms=3000). | <ul><li>Project 1 due on October 18th.</li> <li>[Project 2](https://classroom.github.com/a/LeYRs8Sv) released. </li> <li>[Practical03](https://classroom.github.com/a/y8S4_pLB).</li></ul> | <ul><li>Cooperative Software Development: [Chapter 6 (Requirements)](https://faculty.washington.edu/ajko/books/cooperative-software-development/requirements).</li> <li>[Building Software Together](https://buildtogether.tech/).</li></ul>
+9      | Oct. 24 - Oct. 28     | <ul><li>No class on Oct. 25 - Gator Day.</li> <li>Software Engineering Project.</li></ul> | [Quiz 5](). | 
+10      | Oct. 31 - Nov. 4     | <ul><li>Software Engineering Project. </li><li>Software Complexity. </li></ul>   | Practical 04.  | 
+11      | Nov. 7 - Nov. 11     | <ul><li>Software Engineering Project. </li><li>Software Complexity. </li></ul>         |           | 
+12      | Nov. 14 - Nov. 18    | <ul><li>Software Engineering Project. </li><li>Programming Styles. </li></ul>  |           | 
+13      | Nov. 21 - Nov. 25    | <ul><li>Software Engineering Project. </li> <li>Thanksgiving break Nov. 23-25 </li></ul>      |           | 
+14      | Nov. 28 - Dec. 2     | <ul><li>Software Engineering Project. </li><li>Programming Styles. </li></ul>  |           | 
+15      | Dec. 5 - Dec. 9      | <ul><li>Software Engineering Project. </li><li>DevOps. </li></ul>   |           |
+16      | Dec. 12 - Dec. 16    | Project Presentations on December 13th.                           |           | 
+17      | Dec. 19 - Dec. 23    | Project Final Deadline on December 16th.                          |           | 
 
 ## Instructor
 
