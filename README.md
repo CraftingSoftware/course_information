@@ -135,10 +135,10 @@ You are required to bring a laptop to every class. Additionally, you will be req
 
 Category           | Percentage | Assessment metric
 ------------------ | ---------- | -----------------
-Class Activities   | 20%        | check mark grade
+Class Activities   | 10%        | check mark grade
 Reflection Quizzes | 20%        | check mark grade
-Practical/Lab Assignments    | 20%        | check mark grade
-Project Assignments     | 40%        | letter grade
+Practical/Lab Assignments    | 25%        | check mark grade
+Project Assignments     | 45%        | letter grade
 Total              | 100%       |
 
 #### Grading scale
